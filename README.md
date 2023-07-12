@@ -1,6 +1,7 @@
 
 <p align="center">
   <!-- <img src="https://gpvc.arturio.dev/scaredmeow" alt="profile views">  -->
+  <img src="https://komarev.com/ghpvc/?username=sceiiya&label=Profile%20views&color=0e75b6&style=flat" alt="sceiiya" />
   <a href="https://github.com/sceiiya">
     <img src="https://img.shields.io/github/followers/sceiiya?label=Github&style=social" alt="github">
   </a>
@@ -27,10 +28,6 @@ website system and application solving what they
 need and save time.
 </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sceiiya&label=Profile%20views&color=0e75b6&style=flat" alt="sceiiya" /> </p>
-
-- 📫 Mail me @ **sceiiya.official@gmail.com**
-
 ## My Tech Stack
 ![HTML5](https://img.shields.io/badge/-HTML5-%232c3e50?style=for-the-badge&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-CSS3-%232c3e50?style=for-the-badge&logo=CSS3)
@@ -43,10 +40,10 @@ need and save time.
 ![React](https://img.shields.io/badge/react-%232c3e50.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Laravel](https://img.shields.io/badge/laravel-%232c3e50.svg?style=for-the-badge&logo=laravel&logoColor=white)
 
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-232c3e50.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Codecademy](https://img.shields.io/badge/Codecademy-232c3e50?style=for-the-badge&logo=codecademy&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-%232c3e50.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Codecademy](https://img.shields.io/badge/Codecademy-%232c3e50?style=for-the-badge&logo=codecademy&logoColor=white)
 ![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%232c3e50.svg?&style=for-the-badge&logo=freecodecamp&logoColor=white)
-![Scrimba](https://img.shields.io/badge/scrimba-232c3e50?style=for-the-badge&logo=scrimba&logoColor=white)
+![Scrimba](https://img.shields.io/badge/scrimba-%232c3e50?style=for-the-badge&logo=scrimba&logoColor=white)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
