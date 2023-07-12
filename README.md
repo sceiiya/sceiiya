@@ -32,18 +32,18 @@ need and save time.
 ![HTML5](https://img.shields.io/badge/-HTML5-%232c3e50?style=for-the-badge&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-CSS3-%232c3e50?style=for-the-badge&logo=CSS3)
 ![JS](https://img.shields.io/badge/-Javascript-%232c3e50?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/typescript-%232c3e50.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%232c3e50.svg?style=for-the-badge&logo=typescript)
 ![MySQL](https://img.shields.io/badge/-mySQL-%232c3e50?style=for-the-badge&logo=mysql)
 ![Bootstrap](https://img.shields.io/badge/-Boostrap-%232c3e50?style=for-the-badge&logo=bootstrap)
 ![TailwindCSS](https://img.shields.io/badge/-Tailwind-%232c3e50?style=for-the-badge&logo=tailwindcss)
-![jQuery](https://img.shields.io/badge/jquery-%232c3e50.svg?style=for-the-badge&logo=jquery&logoColor=white)
+![jQuery](https://img.shields.io/badge/jquery-%232c3e50.svg?style=for-the-badge&logo=jquery)
 ![React](https://img.shields.io/badge/react-%232c3e50.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Laravel](https://img.shields.io/badge/laravel-%232c3e50.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![Laravel](https://img.shields.io/badge/laravel-%232c3e50.svg?style=for-the-badge&logo=laravel)
 
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-%232c3e50.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Codecademy](https://img.shields.io/badge/Codecademy-%232c3e50?style=for-the-badge&logo=codecademy&logoColor=white)
-![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%232c3e50.svg?&style=for-the-badge&logo=freecodecamp&logoColor=white)
-![Scrimba](https://img.shields.io/badge/scrimba-%232c3e50?style=for-the-badge&logo=scrimba&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-%232c3e50.svg?style=for-the-badge&logo=visual-studio-code)
+![Codecademy](https://img.shields.io/badge/Codecademy-%232c3e50?style=for-the-badge&logo=codecademy)
+![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%232c3e50.svg?&style=for-the-badge&logo=freecodecamp)
+![Scrimba](https://img.shields.io/badge/scrimba-%232c3e50?style=for-the-badge&logo=scrimba)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
