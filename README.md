@@ -29,10 +29,6 @@ need and save time.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sceiiya&label=Profile%20views&color=0e75b6&style=flat" alt="sceiiya" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sceiiya" alt="sceiiya" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/sceiiya" target="_blank"><img src="https://img.shields.io/twitter/follow/sceiiya?logo=twitter&style=for-the-badge" alt="sceiiya" /></a> </p>
-
 - 📫 Mail me @ **sceiiya.official@gmail.com**
 
 ## My Tech Stack
