@@ -37,7 +37,7 @@ need and save time.
 ![Bootstrap](https://img.shields.io/badge/-Boostrap-%232c3e50?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/-Tailwind-%232c3e50?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jquery-%232c3e50.svg?style=for-the-badge&logo=jquery&logoColor=white)
-![React](https://img.shields.io/badge/react-%232c3e50.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB&logoColor=white)
+![React](https://img.shields.io/badge/react-%232c3e50.svg?style=for-the-badge&logo=react&logoColor=white)
 ![Laravel](https://img.shields.io/badge/laravel-%232c3e50.svg?style=for-the-badge&logo=laravel&logoColor=white)
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-%232c3e50.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
