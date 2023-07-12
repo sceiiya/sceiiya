@@ -59,11 +59,24 @@ need and save time.
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
 </p>
 
+## Checkout my Github Stat
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" height=150 src="https://github-readme-stats-scaredmeow.vercel.app/api/top-langs/?username=sceiiya&layout=compact&langs_count=8" />
+  </a>
+</div>
+___
+
+<div align="center">
+  
+``` you will never know when will be the last time you'll ever think and curious aof any ```
+  
+</div>
+
 <h3 align="left">Support:</h3>
 <p align="center">
-<a href="https://www.buymeacoffee.com/sceiiya"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="sceiiya" /></a>
-<a href="https://ko-fi.com/sceiiya"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="sceiiya" /></a>
+<a href="https://www.buymeacoffee.com/sceiiya"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="sceiiya" /></a>
+<a href="https://ko-fi.com/sceiiya"> <img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="sceiiya" /></a>
 </p>
 <br><br>
 
-<p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sceiiya&show_icons=true&locale=en&layout=compact" alt="sceiiya" /></p>
