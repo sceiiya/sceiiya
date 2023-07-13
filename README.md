@@ -19,7 +19,7 @@
   </a>
 </p>
 
-<h3 align="center">I am a software developer who now focused in
+<h3 align="center">I am a software developer who currently focused in
 website development and seeks to help business
 owners by helping them give their business a
 platform to garner clients as well as to manage
@@ -51,7 +51,7 @@ need and save time.
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/>
 </a> 
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/tools/figma.png" alt="figma" width="30" height="30"/>
+<img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/tools/figma.png" alt="figma" width="25" height="30"/>
 </a>
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="30" height="30"/>
