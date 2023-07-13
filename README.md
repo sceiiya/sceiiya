@@ -11,7 +11,7 @@
   <a href="https://www.linkedin.com/in/yesimscheidj/">
     <img src="https://img.shields.io/badge/- -%232c3e50?label=LinkedIn&style=social&logo=linkedin" alt="linkedin">
   </a>
-  <a href="mailto:sceiiya.official@gmail.com">
+  <a href="mailto:sceiiya.official+github@gmail.com">
     <img src="https://img.shields.io/badge/- -%232c3e50?label=Email&style=social&logo=gmail" alt="gmail">
   </a>
   <a href="https://calendly.com/sceiiya/book-a-meeting">
@@ -45,14 +45,6 @@ need and save time.
 ![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%232c3e50.svg?&style=for-the-badge&logo=freecodecamp&logoColor=white)
 ![Scrimba](https://img.shields.io/badge/scrimba-%232c3e50?style=for-the-badge&logo=scrimba&logoColor=white)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/sceiiya" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sceiiya" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/yesimscheidj" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yesimscheidj" height="30" width="40" /></a>
-<a href="https://instagram.com/sceiiya" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sceiiya" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/sceiiya" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sceiiya" height="30" width="40" /></a>
-</p>
-
 ## My Tools
 <p align="left">
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
@@ -75,8 +67,13 @@ ___
 
 ## Support me on
 <p align="center">
-<a href="https://www.buymeacoffee.com/sceiiya"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="sceiiya" /></a>
-<a href="https://ko-fi.com/sceiiya"> <img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="sceiiya" /></a>
+<a href="https://www.buymeacoffee.com/sceiiya">
+<img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="180" alt="sceiiya" />
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://ko-fi.com/sceiiya">
+<img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="40" width="180" alt="sceiiya" />
+</a>
 </p>
 <br><br>
 
