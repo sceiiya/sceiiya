@@ -1,6 +1,6 @@
 
 <p align="center">
-  <!-- <img src="https://gpvc.arturio.dev/scaredmeow" alt="profile views">  -->
+  <!-- <img src="https://gpvc.arturio.dev/sceiiya" alt="profile views">  -->
   <img src="https://komarev.com/ghpvc/?username=sceiiya&label=Profile%20views&color=0e75b6&style=flat" alt="sceiiya" />
   <a href="https://github.com/sceiiya">
     <img src="https://img.shields.io/github/followers/sceiiya?label=Github&style=social" alt="github">
@@ -53,7 +53,7 @@ need and save time.
 <a href="https://www.leetcode.com/sceiiya" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sceiiya" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Tools:</h3>
+## My Tools
 <p align="left">
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
@@ -73,7 +73,7 @@ ___
   
 </div>
 
-<h3 align="left">Support:</h3>
+## Support me on
 <p align="center">
 <a href="https://www.buymeacoffee.com/sceiiya"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="sceiiya" /></a>
 <a href="https://ko-fi.com/sceiiya"> <img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="sceiiya" /></a>
