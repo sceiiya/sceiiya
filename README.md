@@ -41,7 +41,6 @@ need and save time.
 ![Laravel](https://img.shields.io/badge/laravel-%232c3e50.svg?style=for-the-badge&logo=laravel&logoColor=white)
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-%232c3e50.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Codecademy](https://img.shields.io/badge/Codecademy-%232c3e50?style=for-the-badge&logo=codecademy&logoColor=white)
 ![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%232c3e50.svg?&style=for-the-badge&logo=freecodecamp&logoColor=white)
 ![Scrimba](https://img.shields.io/badge/scrimba-%232c3e50?style=for-the-badge&logo=scrimba&logoColor=white)
 
@@ -71,7 +70,7 @@ ___
 
 <div align="center">
   
-``` you will never know when will be the last time you'll ever think and curious aof any ```
+``` you'll never know how much the time pass when you're always curious ```
   
 </div>
 
