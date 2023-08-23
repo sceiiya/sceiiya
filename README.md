@@ -39,6 +39,7 @@ need and save time.
 ![jQuery](https://img.shields.io/badge/jquery-%232c3e50.svg?style=for-the-badge&logo=jquery&logoColor=white)
 ![React](https://img.shields.io/badge/react-%232c3e50.svg?style=for-the-badge&logo=react&logoColor=white)
 ![Laravel](https://img.shields.io/badge/laravel-%232c3e50.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![Stripe](https://img.shields.io/badge/stripe-%232c3e50.svg?style=for-the-badge&logo=stripe&logoColor=white)
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-%232c3e50.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%232c3e50.svg?&style=for-the-badge&logo=freecodecamp&logoColor=white)
