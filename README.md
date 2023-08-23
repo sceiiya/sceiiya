@@ -63,13 +63,10 @@ need and save time.
 
 ## Checkout my Github Stat
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" height=250 src="https://github-readme-stats-scaredmeow.vercel.app/api/top-langs/?username=sceiiya&layout=donut-vertical&langs_count=8" />
-  </a>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sceiiya&layout=donut&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
 </div>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sceiiya&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
-
 ___
 
 <div align="center">
