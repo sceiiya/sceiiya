@@ -64,7 +64,7 @@ need and save time.
 ## Checkout my Github Stat
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" height=150 src="https://github-readme-stats-scaredmeow.vercel.app/api/top-langs/?username=sceiiya&layout=compact&langs_count=6" />
+    <img align="center" height=150 src="https://github-readme-stats-scaredmeow.vercel.app/api/top-langs/?username=sceiiya&layout=pie&langs_count=12" />
   </a>
 </div>
 ___
