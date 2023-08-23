@@ -63,13 +63,13 @@ need and save time.
 
 ## Checkout my Github Stat
 <div align="center">
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sceiiya&layout=donut&langs_count=12)](https://github.com/anuraghazra/github-readme-stats)
+  ![Most Used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sceiiya&layout=donut&langs_count=12)
 </div>
 ___
 
 <div align="center">
   
-``` you'll never know how much the time pass when you're always curious ```
+``` focus ob being 1% better than you are yesterday, you'll never know how much the time pass when you're always curious ```
   
 </div>
 
