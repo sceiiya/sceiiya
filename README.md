@@ -64,7 +64,7 @@ need and save time.
 ## Checkout my Github Stat
 <div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sceiiya&layout=donut&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sceiiya&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 ___
