@@ -67,11 +67,20 @@ need and save time.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sceiiya&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
-___
+
+---
 
 <div align="center">
   
-``` focus ob being 1% better than you are yesterday, you'll never know how much the time pass when you're always curious ```
+``` focus on being 1% better than you are yesterday, you'll never know how much the time pass when you're always curious ```
+  
+</div>
+
+---
+
+<div align="center">
+  
+``` currently learning rust & python ```
   
 </div>
 
