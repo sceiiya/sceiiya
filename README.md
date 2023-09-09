@@ -1,6 +1,5 @@
 
 <p align="center">
-  <img src="https://gpvc.arturio.dev/sceiiya" alt="profile views"> 
   <img src="https://komarev.com/ghpvc/?username=sceiiya&label=Profile%20views&color=0e75b6&style=flat" alt="sceiiya" />
   <a href="https://github.com/sceiiya">
     <img src="https://img.shields.io/github/followers/sceiiya?label=Github&style=social" alt="github">
