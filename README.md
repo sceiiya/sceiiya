@@ -1,6 +1,6 @@
 
 <p align="center">
-  <!-- <img src="https://gpvc.arturio.dev/sceiiya" alt="profile views">  -->
+  <img src="https://gpvc.arturio.dev/sceiiya" alt="profile views"> 
   <img src="https://komarev.com/ghpvc/?username=sceiiya&label=Profile%20views&color=0e75b6&style=flat" alt="sceiiya" />
   <a href="https://github.com/sceiiya">
     <img src="https://img.shields.io/github/followers/sceiiya?label=Github&style=social" alt="github">
@@ -8,14 +8,8 @@
   <a href="https://twitter.com/intent/follow?screen_name=sceiiya_&tw_p=followbutton">
     <img src="https://img.shields.io/twitter/follow/sceiiya_?label=Twitter&style=social" alt="github">
   </a>
-  <a href="https://www.linkedin.com/in/yesimscheidj/">
-    <img src="https://img.shields.io/badge/- -%232c3e50?label=LinkedIn&style=social&logo=linkedin" alt="linkedin">
-  </a>
   <a href="mailto:sceiiya.official+github@gmail.com">
     <img src="https://img.shields.io/badge/- -%232c3e50?label=Email&style=social&logo=gmail" alt="gmail">
-  </a>
-  <a href="https://calendly.com/sceiiya/book-a-meeting">
-    <img src="https://img.shields.io/badge/- -%232c3e50?label=Book a Meeting with Me&style=social&logo=Google Calendar" alt="Calendly">
   </a>
 </p>
 
