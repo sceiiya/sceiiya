@@ -73,7 +73,7 @@ need and save time.
 
 <div align="center">
   
-``` currently learning rust & python ```
+``` currently learning rust & python n iota```
   
 </div>
 
