@@ -40,11 +40,12 @@ need and save time.
 ![OpenAI](https://img.shields.io/badge/openai-%232c3e50.svg?style=for-the-badge&logo=openai&logoColor=white)
 
 ## Platforms I've used
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-%232c3e50.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Vim](https://img.shields.io/badge/vim-%232c3e50.svg?style=for-the-badge&logo=vim&logoColor=white)
+![Windows](https://img.shields.io/badge/windows-%232c3e50.svg?style=for-the-badge&logo=windows&logoColor=white)
 ![Linux (WSL)](https://img.shields.io/badge/linux-%232c3e50.svg?style=for-the-badge&logo=linux&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/ubuntu-%232c3e50.svg?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Debian](https://img.shields.io/badge/debian-%232c3e50.svg?style=for-the-badge&logo=debian&logoColor=white)
+![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-%232c3e50.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Vim](https://img.shields.io/badge/vim-%232c3e50.svg?style=for-the-badge&logo=vim&logoColor=white)
 
 ## Tools I have used
 <p align="left">
