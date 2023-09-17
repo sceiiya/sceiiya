@@ -35,16 +35,16 @@ need and save time.
 
 ## I worked with these APIs
 ![Stripe](https://img.shields.io/badge/stripe-%232c3e50.svg?style=for-the-badge&logo=stripe&logoColor=white)
-![OpenAI](https://img.shields.io/badge/openai-%232c3e50.svg?style=for-the-badge&logo=stripe&logoColor=white)
+![OpenAI](https://img.shields.io/badge/openai-%232c3e50.svg?style=for-the-badge&logo=openai&logoColor=white)
 
 ## Platforms I've used
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-%232c3e50.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Vim](https://img.shields.io/badge/vim-%232c3e50.svg?style=for-the-badge&logo=stripe&logoColor=white)
-![Linux](https://img.shields.io/badge/linux-%232c3e50.svg?style=for-the-badge&logo=stripe&logoColor=white)
-![WSL](https://img.shields.io/badge/wsl-%232c3e50.svg?style=for-the-badge&logo=stripe&logoColor=white)
-![WSL2](https://img.shields.io/badge/wsl2-%232c3e50.svg?style=for-the-badge&logo=stripe&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/ubuntu-%232c3e50.svg?style=for-the-badge&logo=stripe&logoColor=white)
-![Debian](https://img.shields.io/badge/debian-%232c3e50.svg?style=for-the-badge&logo=stripe&logoColor=white)
+![Vim](https://img.shields.io/badge/vim-%232c3e50.svg?style=for-the-badge&logo=vim&logoColor=white)
+![Linux](https://img.shields.io/badge/linux-%232c3e50.svg?style=for-the-badge&logo=linux&logoColor=white)
+![WSL](https://img.shields.io/badge/wsl-%232c3e50.svg?style=for-the-badge&logo=wsl&logoColor=white)
+![WSL2](https://img.shields.io/badge/wsl2-%232c3e50.svg?style=for-the-badge&logo=wsl2&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/ubuntu-%232c3e50.svg?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Debian](https://img.shields.io/badge/debian-%232c3e50.svg?style=for-the-badge&logo=debian&logoColor=white)
 
 ## Tools I have used
 <p align="left">
