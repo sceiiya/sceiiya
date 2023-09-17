@@ -32,13 +32,21 @@ need and save time.
 ![jQuery](https://img.shields.io/badge/jquery-%232c3e50.svg?style=for-the-badge&logo=jquery&logoColor=white)
 ![React](https://img.shields.io/badge/react-%232c3e50.svg?style=for-the-badge&logo=react&logoColor=white)
 ![Laravel](https://img.shields.io/badge/laravel-%232c3e50.svg?style=for-the-badge&logo=laravel&logoColor=white)
+
+## I worked with these APIs
 ![Stripe](https://img.shields.io/badge/stripe-%232c3e50.svg?style=for-the-badge&logo=stripe&logoColor=white)
+![OpenAI](https://img.shields.io/badge/openai-%232c3e50.svg?style=for-the-badge&logo=stripe&logoColor=white)
 
+## Platforms I've used
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-%232c3e50.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%232c3e50.svg?&style=for-the-badge&logo=freecodecamp&logoColor=white)
-![Scrimba](https://img.shields.io/badge/scrimba-%232c3e50?style=for-the-badge&logo=scrimba&logoColor=white)
+![Vim](https://img.shields.io/badge/vim-%232c3e50.svg?style=for-the-badge&logo=stripe&logoColor=white)
+![Linux](https://img.shields.io/badge/linux-%232c3e50.svg?style=for-the-badge&logo=stripe&logoColor=white)
+![WSL](https://img.shields.io/badge/wsl-%232c3e50.svg?style=for-the-badge&logo=stripe&logoColor=white)
+![WSL2](https://img.shields.io/badge/wsl2-%232c3e50.svg?style=for-the-badge&logo=stripe&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/ubuntu-%232c3e50.svg?style=for-the-badge&logo=stripe&logoColor=white)
+![Debian](https://img.shields.io/badge/debian-%232c3e50.svg?style=for-the-badge&logo=stripe&logoColor=white)
 
-## My Tools
+## Tools I have used
 <p align="left">
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/>
