@@ -38,10 +38,10 @@ need and save time.
 ## Stacks I'm still grasping
 ![Rust](https://img.shields.io/badge/rust-%232c3e50.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![Python](https://img.shields.io/badge/python-%232c3e50.svg?style=for-the-badge&logo=python&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node%20js-%232c3e50.svg?style=for-the-badge&logo=nodejs&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node%20js-%232c3e50.svg?style=for-the-badge&logo=node&logoColor=white)
 ![Express](https://img.shields.io/badge/express-%232c3e50.svg?style=for-the-badge&logo=express&logoColor=white)
 ![Bun](https://img.shields.io/badge/bun-%232c3e50.svg?style=for-the-badge&logo=bun&logoColor=white)
-![ElysiaJS](https://img.shields.io/badge/elysia%20js-%232c3e50.svg?style=for-the-badge&logo=elysiajs&logoColor=white)
+![ElysiaJS](https://img.shields.io/badge/elysia%20js-%232c3e50.svg?style=for-the-badge&logo=elysia&logoColor=white)
 
 ## I worked with these APIs
 ![Stripe](https://img.shields.io/badge/stripe-%232c3e50.svg?style=for-the-badge&logo=stripe&logoColor=white)
