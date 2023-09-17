@@ -32,6 +32,8 @@ need and save time.
 ![jQuery](https://img.shields.io/badge/jquery-%232c3e50.svg?style=for-the-badge&logo=jquery&logoColor=white)
 ![React](https://img.shields.io/badge/react-%232c3e50.svg?style=for-the-badge&logo=react&logoColor=white)
 ![Laravel](https://img.shields.io/badge/laravel-%232c3e50.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![Rust](https://img.shields.io/badge/rust-%232c3e50.svg?style=for-the-badge&logo=rust&logoColor=white)
+![Python](https://img.shields.io/badge/python-%232c3e50.svg?style=for-the-badge&logo=python&logoColor=white)
 
 ## I worked with these APIs
 ![Stripe](https://img.shields.io/badge/stripe-%232c3e50.svg?style=for-the-badge&logo=stripe&logoColor=white)
@@ -63,7 +65,7 @@ need and save time.
 ## Checkout my Github Stat
 <div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sceiiya&layout=donut&theme=react&hide_border=true&bg_color=30363d&title_color=A50113&icon_color=A50113&hide=hack)](https://github.com/sceiiya?tab=repositories)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sceiiya&layout=donut&theme=react&hide_border=true&bg_color=30363d&title_color=ffeded&icon_color=A50113&hide=hack)](https://github.com/sceiiya?tab=repositories)
 
 </div>
 
