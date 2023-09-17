@@ -35,6 +35,14 @@ need and save time.
 ![Rust](https://img.shields.io/badge/rust-%232c3e50.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![Python](https://img.shields.io/badge/python-%232c3e50.svg?style=for-the-badge&logo=python&logoColor=white)
 
+## Stacks I'm still grasping
+![Rust](https://img.shields.io/badge/rust-%232c3e50.svg?style=for-the-badge&logo=rust&logoColor=white)
+![Python](https://img.shields.io/badge/python-%232c3e50.svg?style=for-the-badge&logo=python&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node%20js-%232c3e50.svg?style=for-the-badge&logo=rust&logoColor=white)
+![Express](https://img.shields.io/badge/express-%232c3e50.svg?style=for-the-badge&logo=python&logoColor=white)
+![Bun](https://img.shields.io/badge/bun-%232c3e50.svg?style=for-the-badge&logo=rust&logoColor=white)
+![ElysiaJS](https://img.shields.io/badge/elysia%20js-%232c3e50.svg?style=for-the-badge&logo=python&logoColor=white)
+
 ## I worked with these APIs
 ![Stripe](https://img.shields.io/badge/stripe-%232c3e50.svg?style=for-the-badge&logo=stripe&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/openai-%232c3e50.svg?style=for-the-badge&logo=openai&logoColor=white)
