@@ -41,7 +41,7 @@ need and save time.
 
 ## Platforms I've used
 ![Windows](https://img.shields.io/badge/windows-%232c3e50.svg?style=for-the-badge&logo=windows&logoColor=white)
-![Linux (WSL)](https://img.shields.io/badge/linux-%232c3e50.svg?style=for-the-badge&logo=linux&logoColor=white)
+![Linux -WSL-](https://img.shields.io/badge/linux-%232c3e50.svg?style=for-the-badge&logo=linux&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/ubuntu-%232c3e50.svg?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Debian](https://img.shields.io/badge/debian-%232c3e50.svg?style=for-the-badge&logo=debian&logoColor=white)
 ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-%232c3e50.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
