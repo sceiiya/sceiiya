@@ -21,6 +21,10 @@ website system and application solving what they
 need and save time.
 </h3>
 
+<a href="https://github.com/sceiiya/rent_a_cos" target="_blank" rel="noreferrer">
+<h3 align="center">Work in PROGRESS: Costume Platform!</h3>
+</a>
+
 ## My Tech Stack
 ![HTML5](https://img.shields.io/badge/-HTML5-%232c3e50?style=for-the-badge&logo=HTML5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-%232c3e50?style=for-the-badge&logo=CSS3&logoColor=white)
