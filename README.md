@@ -44,6 +44,7 @@ need and save time.
 ![Python](https://img.shields.io/badge/python-%232c3e50.svg?style=for-the-badge&logo=python&logoColor=white)
 ![Node](https://img.shields.io/badge/node%20js-%232c3e50.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/express-%232c3e50.svg?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/mongodb-%232c3e50.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Bun](https://img.shields.io/badge/bun-%232c3e50.svg?style=for-the-badge&logo=bun&logoColor=white)
 ![ElysiaJS](https://img.shields.io/badge/elysia%20js-%232c3e50.svg?style=for-the-badge&logo=elysiadotjs&logoColor=white)
 
