@@ -95,7 +95,7 @@ need and save time.
 
 <div align="center">
   
-``` currently learning rust & python n iota```
+``` currently learning expressjs, mongodb, mongoose```
   
 </div>
 
