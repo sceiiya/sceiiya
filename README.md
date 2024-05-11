@@ -74,7 +74,10 @@ need and save time.
 </a> 
 <a href="https://trello.com/en" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/danielchatfield/trello-desktop/master/static/Icon.ico" alt="trello" width="30" height="30"/>
-</a> 
+</a>
+<a href="[https://trello.com/en](https://www.atlassian.com/software/confluence)" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/danielchatfield/confluence/master/static/Icon.ico" alt="confluence" width="30" height="30"/>
+</a>
 </p>
 
 ## Checkout my Github Stat
