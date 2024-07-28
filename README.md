@@ -38,6 +38,7 @@ need and save time.
 ![React](https://img.shields.io/badge/react-%232c3e50.svg?style=for-the-badge&logo=react&logoColor=white)
 ![Node](https://img.shields.io/badge/node%20js-%232c3e50.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/express-%232c3e50.svg?style=for-the-badge&logo=express&logoColor=white)
+![NextJS](https://img.shields.io/badge/nextjs-%232c3e50.svg?style=for-the-badge&logo=nextjs&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/mongodb-%232c3e50.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Laravel](https://img.shields.io/badge/laravel-%232c3e50.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![Rust](https://img.shields.io/badge/rust-%232c3e50.svg?style=for-the-badge&logo=rust&logoColor=white)
@@ -46,7 +47,6 @@ need and save time.
 ## Stacks I'm still grasping
 ![Rust](https://img.shields.io/badge/rust-%232c3e50.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![Python](https://img.shields.io/badge/python-%232c3e50.svg?style=for-the-badge&logo=python&logoColor=white)
-![NextJS](https://img.shields.io/badge/nextjs-%232c3e50.svg?style=for-the-badge&logo=nextjs&logoColor=white)
 ![Bun](https://img.shields.io/badge/bun-%232c3e50.svg?style=for-the-badge&logo=bun&logoColor=white)
 ![ElysiaJS](https://img.shields.io/badge/elysia%20js-%232c3e50.svg?style=for-the-badge&logo=elysiadotjs&logoColor=white)
 
