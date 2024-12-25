@@ -45,12 +45,12 @@ need and save time.
 ![Rust](https://img.shields.io/badge/rust-%232c3e50.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![Python](https://img.shields.io/badge/python-%232c3e50.svg?style=for-the-badge&logo=python&logoColor=white)
 
-## Stacks I'm still grasping
+## Stacks and Techs I'm still grasping
 ![Rust](https://img.shields.io/badge/rust-%232c3e50.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![Python](https://img.shields.io/badge/python-%232c3e50.svg?style=for-the-badge&logo=python&logoColor=white)
 ![Bun](https://img.shields.io/badge/bun-%232c3e50.svg?style=for-the-badge&logo=bun&logoColor=white)
 ![ElysiaJS](https://img.shields.io/badge/elysia%20js-%232c3e50.svg?style=for-the-badge&logo=elysiadotjs&logoColor=white)
-![Macbook](https://img.shields.io/badge/mac-%232c3e50.svg?style=for-the-badge&logo=bun&logoColor=white)
+![macOS](https://img.shields.io/badge/macOS-%232c3e50.svg?style=for-the-badge&logo=apple&logoColor=white)
 
 ## I worked with these APIs
 ![Stripe](https://img.shields.io/badge/stripe-%232c3e50.svg?style=for-the-badge&logo=stripe&logoColor=white)
