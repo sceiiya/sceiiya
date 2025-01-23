@@ -38,6 +38,7 @@ need and save time.
 ![jQuery](https://img.shields.io/badge/jquery-%232c3e50.svg?style=for-the-badge&logo=jquery&logoColor=white)
 ![React](https://img.shields.io/badge/react-%232c3e50.svg?style=for-the-badge&logo=react&logoColor=white)
 ![Node](https://img.shields.io/badge/node%20js-%232c3e50.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Bun](https://img.shields.io/badge/bun-%232c3e50.svg?style=for-the-badge&logo=bun&logoColor=white)
 ![Express](https://img.shields.io/badge/express-%232c3e50.svg?style=for-the-badge&logo=express&logoColor=white)
 ![NextJS](https://img.shields.io/badge/nextjs-%232c3e50.svg?style=for-the-badge&logo=nextjs&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/mongodb-%232c3e50.svg?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -48,7 +49,6 @@ need and save time.
 ## Stacks and Techs I'm still grasping
 ![Rust](https://img.shields.io/badge/rust-%232c3e50.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![Python](https://img.shields.io/badge/python-%232c3e50.svg?style=for-the-badge&logo=python&logoColor=white)
-![Bun](https://img.shields.io/badge/bun-%232c3e50.svg?style=for-the-badge&logo=bun&logoColor=white)
 ![ElysiaJS](https://img.shields.io/badge/elysia%20js-%232c3e50.svg?style=for-the-badge&logo=elysiadotjs&logoColor=white)
 ![macOS](https://img.shields.io/badge/macOS-%232c3e50.svg?style=for-the-badge&logo=apple&logoColor=white)
 
