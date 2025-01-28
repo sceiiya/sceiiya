@@ -22,7 +22,6 @@ need and save time.
 </h3>
 
 
-<a href="https://github.com/sceiiya/washicha" target="_blank" ><h3 align="center">POSTPONED Work: WashiCha!</h3></a>
 <a href="https://github.com/sceiiya/perfin" target="_blank" ><h3 align="center">POSPONED Again: Personal Finance tracker!</h3></a>
 <a href="https://yesimscheidj.rocks" target="_blank" ><h3 align="center">Work in PROGRESS: New Portfoilio!</h3></a>
 
