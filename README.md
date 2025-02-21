@@ -21,6 +21,8 @@ website system and application solving what they
 need and save time.
 </h3>
 
+<h3 align="center">I'm currently in the process of transitioning to Web3 </h3>
+
 
 <a href="https://github.com/sceiiya/perfin" target="_blank" ><h3 align="center">POSPONED Again: Personal Finance tracker!</h3></a>
 <a href="https://yesimscheidj.rocks" target="_blank" ><h3 align="center">Work in PROGRESS: New Portfoilio!</h3></a>
@@ -48,6 +50,8 @@ need and save time.
 ## Stacks and Techs I'm still grasping
 ![Rust](https://img.shields.io/badge/rust-%232c3e50.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![Python](https://img.shields.io/badge/python-%232c3e50.svg?style=for-the-badge&logo=python&logoColor=white)
+![Solidity](https://img.shields.io/badge/solidity-%232c3e50.svg?style=for-the-badge&logo=solidity&logoColor=white)
+![HardHat](https://img.shields.io/badge/hardhat-%232c3e50.svg?style=for-the-badge&logo=hardhat&logoColor=white)
 ![ElysiaJS](https://img.shields.io/badge/elysia%20js-%232c3e50.svg?style=for-the-badge&logo=elysiadotjs&logoColor=white)
 ![macOS](https://img.shields.io/badge/macOS-%232c3e50.svg?style=for-the-badge&logo=apple&logoColor=white)
 
