@@ -89,7 +89,7 @@ need and save time.
 ## Checkout my Github Stat
 <div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sceiiya&layout=donut&theme=react&hide_border=true&bg_color=30363d&title_color=ffeded&icon_color=A50113&hide=hack,php)](https://github.com/sceiiya?tab=repositories)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sceiiya&layout=donut&theme=react&hide_border=true&bg_color=30363d&title_color=ffeded&icon_color=A50113&hide=hack,php,blade)](https://github.com/sceiiya?tab=repositories)
 
 </div>
 
