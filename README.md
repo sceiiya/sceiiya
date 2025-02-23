@@ -23,8 +23,6 @@ need and save time.
 
 <h3 align="center">I'm currently in the process of transitioning to Web3 </h3>
 
-
-<a href="https://github.com/sceiiya/perfin" target="_blank" ><h3 align="center">POSPONED Again: Personal Finance tracker!</h3></a>
 <a href="https://yesimscheidj.rocks" target="_blank" ><h3 align="center">Work in PROGRESS: New Portfoilio!</h3></a>
 
 
