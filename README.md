@@ -23,7 +23,7 @@ need and save time.
 
 <h3 align="center">I'm currently in the process of transitioning to Web3 </h3>
 
-<a href="https://yesimscheidj.rocks" target="_blank" ><h3 align="center">Work in PROGRESS: New Portfoilio!</h3></a>
+<a href="https://yesimscheidj.rocks" target="_blank" ><h3 align="center">Work in PROGRESS: Learning MAtchematics: Vector</h3></a>
 
 
 ## My Tech Stack
