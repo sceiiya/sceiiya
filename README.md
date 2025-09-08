@@ -50,7 +50,6 @@ need and save time.
 ![Python](https://img.shields.io/badge/python-%232c3e50.svg?style=for-the-badge&logo=python&logoColor=white)
 ![Solidity](https://img.shields.io/badge/solidity-%232c3e50.svg?style=for-the-badge&logo=solidity&logoColor=white)
 ![HardHat](https://img.shields.io/badge/hardhat-%232c3e50.svg?style=for-the-badge&logo=hardhat&logoColor=white)
-![ElysiaJS](https://img.shields.io/badge/elysia%20js-%232c3e50.svg?style=for-the-badge&logo=elysiadotjs&logoColor=white)
 ![macOS](https://img.shields.io/badge/macOS-%232c3e50.svg?style=for-the-badge&logo=apple&logoColor=white)
 
 ## I worked with these APIs
@@ -62,6 +61,7 @@ need and save time.
 ![Linux WSL](https://img.shields.io/badge/linux%20(WSL)-%232c3e50.svg?style=for-the-badge&logo=linux&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/ubuntu-%232c3e50.svg?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Debian](https://img.shields.io/badge/debian-%232c3e50.svg?style=for-the-badge&logo=debian&logoColor=white)
+![Fedora](https://img.shields.io/badge/fedora-%232c3e50.svg?style=for-the-badge&logo=fedora&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-%232c3e50.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Vim](https://img.shields.io/badge/vim-%232c3e50.svg?style=for-the-badge&logo=vim&logoColor=white)
 
@@ -103,7 +103,7 @@ need and save time.
 
 <div align="center">
   
-``` currently learning expressjs, mongodb, mongoose```
+``` currently learning nestjs, cs50, python```
   
 </div>
 
