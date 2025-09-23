@@ -89,6 +89,10 @@ need and save time.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sceiiya&layout=donut&theme=react&hide_border=true&bg_color=30363d&title_color=ffeded&icon_color=A50113&hide=hack,php,blade)](https://github.com/sceiiya?tab=repositories)
 
+---
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sceiiya" alt="sceiiya" /></a> </p>
+
 </div>
 
 ---
