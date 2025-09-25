@@ -81,14 +81,14 @@ need and save time.
 </p>
 
 ## Checkout my Github Stat
-<div style="display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100vh; text-align: center;">
+<div style="display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100vh; text-align: center;" align="center">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sceiiya&layout=donut&theme=react&hide_border=true&bg_color=30363d&title_color=ffeded&icon_color=A50113&hide=hack,php,blade,vue)](https://github.com/sceiiya?tab=repositories)
 [![Top Langs](https://github-readme-stats.vercel.app/api?username=sceiiya&show_icons=true&locale=en&theme=dark)](https://github.com/sceiiya?tab=repositories)
 
 ---
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sceiiya" alt="sceiiya" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sceiiya" alt="sceiiya" /></a> </p>
 
 </div>
 
