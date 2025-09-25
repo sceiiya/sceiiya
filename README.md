@@ -74,26 +74,17 @@ need and save time.
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/tools/figma.png" alt="figma" width="25" height="30"/>
 </a>
-<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="30" height="30"/>
-</a> 
 <a href="https://trello.com/en" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/danielchatfield/trello-desktop/master/static/Icon.ico" alt="trello" width="30" height="30"/>
 </a>
 <a href="https://www.atlassian.com/software/confluence" target="_blank" rel="noreferrer">
-<img src=""confluence" width="30" height="30"/>
-</a>
 </p>
 
 ## Checkout my Github Stat
-<div align="center">
+<div style="display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100vh; text-align: center;">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sceiiya&layout=donut&theme=react&hide_border=true&bg_color=30363d&title_color=ffeded&icon_color=A50113&hide=hack,php,blade,vue)](https://github.com/sceiiya?tab=repositories)
 [![Top Langs](https://github-readme-stats.vercel.app/api?username=sceiiya&show_icons=true&locale=en&theme=dark)](https://github.com/sceiiya?tab=repositories)
-
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sceiiya&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" />
-</p>
 
 ---
 
