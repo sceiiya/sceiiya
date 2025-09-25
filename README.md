@@ -88,7 +88,7 @@ need and save time.
 ## Checkout my Github Stat
 <div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sceiiya&layout=donut&theme=react&hide_border=true&bg_color=30363d&title_color=ffeded&icon_color=A50113&hide=hack,php,blade)](https://github.com/sceiiya?tab=repositories)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sceiiya&layout=donut&theme=react&hide_border=true&bg_color=30363d&title_color=ffeded&icon_color=A50113&hide=hack,php,blade,vue)](https://github.com/sceiiya?tab=repositories)
 
 ---
 
@@ -96,12 +96,6 @@ need and save time.
 
 </div>
 ---
-
-### 📊 GitHub Stats:
-
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sceiiya&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" />
-</p>
 
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=sceiiya&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" />
