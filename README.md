@@ -89,17 +89,17 @@ need and save time.
 <div align="center">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sceiiya&layout=donut&theme=react&hide_border=true&bg_color=30363d&title_color=ffeded&icon_color=A50113&hide=hack,php,blade,vue)](https://github.com/sceiiya?tab=repositories)
+[![Top Langs](https://github-readme-stats.vercel.app/api?username=sceiiya&show_icons=true&locale=en&theme=dark)](https://github.com/sceiiya?tab=repositories)
+
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sceiiya&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" />
+</p>
 
 ---
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sceiiya" alt="sceiiya" /></a> </p>
 
 </div>
----
-
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sceiiya&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" />
-</p>
 
 ---
 
